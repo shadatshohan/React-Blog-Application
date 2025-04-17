@@ -1,7 +1,9 @@
 # 📝 React Blog Application
 
 A simple and lightweight blog application built with **React**, allowing users to **create**, **read**, **update**, and **delete** (CRUD) blog posts. It uses **JSON data** (via `json-server`) to manage and store blog content locally.
-
+![alt](https://github.com/shadatshohan/React-Blog-Application/blob/8c2887d491d46227cb93659738edf75352a829fb/react_blog1.png)
+![alt](https://github.com/shadatshohan/React-Blog-Application/blob/8c2887d491d46227cb93659738edf75352a829fb/react_blog2.png)
+![alt](https://github.com/shadatshohan/React-Blog-Application/blob/8c2887d491d46227cb93659738edf75352a829fb/react_blog3.png)
 ---
 
 ## 🔥 Features
